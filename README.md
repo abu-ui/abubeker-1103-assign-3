@@ -22,3 +22,4 @@ and [translators](https://crowdin.net/project/simple-counter).
 
 * Application icon made by [Dawid Tarasiuk](https://plus.google.com/u/0/105243332659178233856)
 * Sounds from [adobeflash.com](https://www.adobeflash.com/download/sounds/clicks/)
+this is changed counter application that modifite ABUBEKER
